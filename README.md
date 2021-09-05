@@ -9,6 +9,7 @@
  * H2 Database
  * Java 8
  * Maven 
+ * Angular 9
 
 
 ## Mais detalhes nas respectivas pastas dos projetos spring e angular
